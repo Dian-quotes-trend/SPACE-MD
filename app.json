@@ -21,7 +21,7 @@
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "256754851585",
     "required": true
   },
   "GITHUB_USERNAME": {
@@ -36,17 +36,17 @@
   },
    "PREMIUM_KEY": {
     "description": "If you purchased a premium membership, enter the key you received here otherwise leave blank",
-    "value": "",
+    "value": "676567885688655",
     "required": false
   },
   "MAX_SESSIONS": {
     "description": "If you purchased a premium membership, enter the session limit you received here otherwise leave blank.",
-    "value": "",
+    "value": "100",
     "required": false
   },
    "EXPIRY": {
     "description": "If you purchased a premium membership, enter the expiry date you received here otherwise leave blank",
-    "value": "",
+    "value": "060930",
     "required": false
   },
     "ANTI_DELETE": {
